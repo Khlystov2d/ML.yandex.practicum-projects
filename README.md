@@ -4,11 +4,18 @@
 - Предобработка данных
 - Исследовательский анализ данных
 - Обучение моделей
-**Изучил и применил следующие библиотеки:**
-*pandas, sklearn, datetime, seaborn, matplotlib, numpy, catboost*
+
+<font color='grey'>pandas, sklearn, datetime, seaborn, matplotlib, numpy, catboost</font>
 
 ### Выбор локации для скважины
+- Предобработка данных
+- Обучение и проверка модели
+- Подготовка к расчёту прибыли
+- Расчёт прибыли и рисков
 
+**Изучил и применил следующие библиотеки:**
+
+*pandas, sklearn, datetime, seaborn, matplotlib, numpy, catboost*
 
 ### Определение стоимости автомобилей
 
