@@ -5,7 +5,7 @@
 - Исследовательский анализ данных
 - Обучение моделей
 **Изучил и применил следующие библиотеки:**
-*pandas, sklearn, datetime, seaborn, matplotlib, numpy, catboost 
+*pandas, sklearn, datetime, seaborn, matplotlib, numpy, catboost*
 
 ### Выбор локации для скважины
 
