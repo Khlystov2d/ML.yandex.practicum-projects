@@ -5,6 +5,7 @@
 - Исследовательский анализ данных
 - Обучение моделей
 
+*Применял:*
 <font color='grey'>pandas, sklearn, datetime, seaborn, matplotlib, numpy, catboost</font>
 
 ### Выбор локации для скважины
