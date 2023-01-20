@@ -2,7 +2,7 @@
 
 
 **Восстановление золота из руды**
-https://github.com/Khlystov2d/ML_yandex_practicum_projects.git
+https://github.com/Khlystov2d/ML_yandex_practicum_projects/Восстановление золота из руды.git
 
 **Выбор локации для скважины**
 
