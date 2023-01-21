@@ -56,4 +56,6 @@
 1. эффективность обогащения чернового концентрата rougher.output.recovery;
 2. эффективность обогащения финального концентрата final.output.recovery.
 
+**Проект успешно завершен**
 
+Библиотеки: pandas, sklearn, datetime, seaborn, matplotlib, numpy, catboost
