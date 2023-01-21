@@ -44,3 +44,8 @@
 *Целевой признак:*
 
 - Price — цена (евро)
+
+
+**Проект успешно завершен**
+
+Библиотеки: pandas, numpy, matplotlib, datetime, sklearn, lightgbm, catboost
