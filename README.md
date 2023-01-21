@@ -1,7 +1,7 @@
 ## Здесь хранятся мои наиболее интересные учебные проекты яндекс.пркатикум, по направлению Data Science
 
 
-### [Восстановление золота из руды:](https://github.com/Khlystov2d/ML_yandex_practicum_projects/blob/main/Восстановление%20золота%20из%20руды/README.md)
+### [Восстановление золота из руды:](https://github.com/Khlystov2d/ML_yandex_practicum_projects/blob/main/Восстановление%20золота%20из%20руды/)
 
 **Описание данных**
 
@@ -15,7 +15,7 @@
 Применял библиотеки:
 *pandas, sklearn, datetime, seaborn, matplotlib, numpy, catboost*
 
-### [Выбор локации для скважины:](https://github.com/Khlystov2d/ML_yandex_practicum_projects/blob/main/Выбор%20локации%20для%20скважины/README.md)
+### [Выбор локации для скважины:](https://github.com/Khlystov2d/ML_yandex_practicum_projects/blob/main/Выбор%20локации%20для%20скважины/)
 
 **Описание данных**
 
@@ -33,7 +33,7 @@
 Применял библиотеки:
 *pandas, sklearn, seaborn, matplotlib, numpy*
 
-### [Определение стоимости автомобилей:](https://github.com/Khlystov2d/ML_yandex_practicum_projects/blob/main/Определение%20стоимости%20автомобилей/README.md)
+### [Определение стоимости автомобилей:](https://github.com/Khlystov2d/ML_yandex_practicum_projects/blob/main/Определение%20стоимости%20автомобилей/)
 
 **Описание данных:**
 
@@ -47,7 +47,7 @@
 Применял библиотеки:
 *pandas, numpy, matplotlib, datetime, sklearn, lightgbm, catboost*
 
-### [Прогнозирование заказов такси:](https://github.com/Khlystov2d/ML_yandex_practicum_projects/blob/main/Прогнозирование%20заказов%20такси/README.md)
+### [Прогнозирование заказов такси:](https://github.com/Khlystov2d/ML_yandex_practicum_projects/blob/main/Прогнозирование%20заказов%20такси/)
 **Описание данных:**
 
 таблица с 2 столбцами - датой и количеством заказов
@@ -60,7 +60,7 @@
 Применял библиотеки:
 *pandas, statsmodels, matplotlib, numpy, sklearn, catboost*
 
-### [Проект для «Викишоп» c BERT:](https://github.com/Khlystov2d/ML_yandex_practicum_projects/blob/main/Проект%20для%20«Викишоп»%20c%20BERT/README.md)
+### [Проект для «Викишоп» c BERT:](https://github.com/Khlystov2d/ML_yandex_practicum_projects/blob/main/Проект%20для%20«Викишоп»%20c%20BERT/)
  
 **Описание данных**
 
