@@ -9,3 +9,8 @@
 
 - **text** - *столбец, в котором содержит текст комментария*
 - **toxic** - *целевой признак*
+
+
+**Проект успешно завершен**
+
+Библиотеки: pandas, numpy, sklearn, torch, transformers, re, tqdm, catboost
