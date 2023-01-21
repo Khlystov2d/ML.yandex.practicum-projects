@@ -18,3 +18,6 @@
 - datetime - дата и время
 - num_orders - количество заказов
 
+**Проект успешно завершен**
+
+Библиотеки: pandas, statsmodels, matplotlib, numpy, sklearn, catboost
